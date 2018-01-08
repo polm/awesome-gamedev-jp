@@ -27,7 +27,7 @@ A list of awesome gamedev resources in Japanese.
 ## エンジン
 
 - [Pico8](https://www.lexaloffle.com/pico-8.php) - 国産レトロ風「空想コンソール」。公式資料は英語になっているけどファンによって翻訳された日本語版は[こちら](https://github.com/kitao/pico8-jp/blob/master/pico8-jp.txt)。Luaベース。
-- [LÖVE](https://love2d.org/wiki/Main_Page_(%E6%97%A5%E6%9C%AC%E8%AA%9E%29) (別名Love2d)
+- [LÖVE](https://love2d.org/wiki/Main_Page_(%E6%97%A5%E6%9C%AC%E8%AA%9E)) (別名Love2d)
 
 ## ゲームジャム
 
