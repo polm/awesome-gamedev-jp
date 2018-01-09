@@ -6,11 +6,13 @@ A list of awesome gamedev resources in Japanese.
 
 ゲーム開発のための素晴らしいリソースを集めたリスト。
 
+Pull Requestはお気軽にどうぞ。
+
 ## イベント
 
 ### 頻繁に行われるイベント
 
-- [Tokyo Indies](https://tokyoindies.com/) - 毎月渋谷で開催されるイベント。プレゼンが中心となっているが気軽く飲みながら交流できる。
+- [Tokyo Indies](https://tokyoindies.com/) - 毎月渋谷で開催されるイベント。プレゼンが中心となっているが気軽に飲みながら交流できる時間もたっぷりある。
 - [ピコたち](http://picotachi.com) - 毎月吉祥寺のピコピコカフェで開催されるイベント。
 - [Ichi Pixel](http://ichipixel.net/) - 毎月大阪で開催されるイベント。
 
@@ -20,14 +22,19 @@ A list of awesome gamedev resources in Japanese.
 - [デジゲー博](http://digigame-expo.org/) - 毎年11月に秋葉原で開催される同人・インディーオンリー展示会・即売会。
 - [BitSummit](http://www.bitsummit.org/2018/) - 毎年京都で開催されるインディーズ向け展示会。
 
-## アセット
+## 素材・アセット
 
 ...
 
 ## エンジン
 
-- [Pico8](https://www.lexaloffle.com/pico-8.php) - 国産レトロ風「空想コンソール」。公式資料は英語になっているけどファンによって翻訳された日本語版は[こちら](https://github.com/kitao/pico8-jp/blob/master/pico8-jp.txt)。Luaベース。
-- [LÖVE](https://love2d.org/wiki/Main_Page_(%E6%97%A5%E6%9C%AC%E8%AA%9E)) (別名Love2d)
+### 有料
+
+- [PICO-8](https://www.lexaloffle.com/pico-8.php) - 国産レトロ風「空想コンソール」。公式資料は英語になっているけどファンによって翻訳された日本語版は[こちら](https://github.com/kitao/pico8-jp/blob/master/pico8-jp.txt)。Luaベース。
+
+### 無料/Open Source
+
+- [LÖVE](https://love2d.org/wiki/Main_Page_(%E6%97%A5%E6%9C%AC%E8%AA%9E)) (別名Love2d) - Luaベース。
 
 ## ゲームジャム
 
