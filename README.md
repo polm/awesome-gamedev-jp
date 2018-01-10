@@ -21,6 +21,7 @@ Pull Requestはお気軽にどうぞ。
 - [Tokyo Game Show](http://expo.nikkeibp.co.jp/tgs/2017/) - 国内最大のゲーム展示会。
 - [デジゲー博](http://digigame-expo.org/) - 毎年11月に秋葉原で開催される同人・インディーオンリー展示会・即売会。
 - [BitSummit](http://www.bitsummit.org/2018/) - 毎年京都で開催されるインディーズ向け展示会。
+- [Pixel Art Park](http://pixelartpark.com/) - 毎年秋ぐらいに秋葉原に開催される即売会。
 
 ## 素材・アセット
 
